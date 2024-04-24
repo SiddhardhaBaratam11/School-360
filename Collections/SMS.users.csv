@@ -1,0 +1,5 @@
+_id,name,pswd,role,__v
+6627ffb046c2788ef680eb98,sid11@gmail.com,$2b$10$/GF42YOo69LOawb9Alh7oOU2KBIlCaTfWQNROk.2Wm.A5yhyK7O3.,administrator,0
+6628090757a77684fe18c98f,sid@gmail.com,$2b$10$xz11hk3e1YC620/9HhZO4.LJLhJauIvd3D6N/NXSvgbKn1p97c5RG,student,0
+66281af4f3bbaa8a84ee40a2,siddhu123@gmail.com,$2b$10$8DgPdX6ZTGrq6vTLS/MT..ursJnMtIIxNiq1jAQSjxBAxgkG1wV5K,parent,0
+66281d2ad45c2d8ff648a5a4,siddhu11@gmail.com,$2b$10$SvBiDYz92RL5YUUUWLLzveEzzzVFpGA2NrarWV.JkwWUZUCs3jgeS,teacher,0
